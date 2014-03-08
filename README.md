@@ -4,9 +4,11 @@
 
 Pantry Exec is a plugin for [Pantry](pantryops.org) that allows running shell commands on a Pantry Client.
 
+## WARNING
+
 **This command runs any shell command as the user running Pantry Client**
 
-**This is a standalone Command because it's DANGEROUS, but useful.**
+**This is a standalone Command because it is DANGEROUS, but useful**
 
 ## Installation
 
